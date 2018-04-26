@@ -3,6 +3,7 @@
 # 2014-07-11 DHT22.py
 # Source: http://abyz.me.uk/rpi/pigpio/examples.html
 
+# TODO: Clean up, add comments, and rework 
 
 import time
 import atexit
