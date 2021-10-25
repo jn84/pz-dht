@@ -1,5 +1,7 @@
 # pz-dht
 
+A tool to read and report DHT11/22 temperature and humidity sensors
+
 Disclaimer:
 Tested only with python 3.5
 
